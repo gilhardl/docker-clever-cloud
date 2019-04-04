@@ -2,9 +2,9 @@
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/gilhardl/clever-cloud.svg?style=flat-square)](https://hub.docker.com/r/gilhardl/clever-cloud/)
 
-Docker image for Clever Cloud CLI
+Docker image for Clever Cloud CLI, based on [gilhardl/node](https://github.com/gilhardl/docker-node)
 
-----------------------------------------
+---
 
 **Clever Cloud CLI :** 1.4.0
 
@@ -18,8 +18,7 @@ Docker image for Clever Cloud CLI
 
 **Package manager:** yarn
 
-----------------------------------------
-
+---
 
 # Usage
 
